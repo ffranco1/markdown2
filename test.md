@@ -10,3 +10,10 @@ this is a new line
 >This is an awesome block quote
 
 This is a link to [google](http://www.google.com) .
+
+#bullets
+
+- one
+- two
+- three
+
